@@ -58,7 +58,7 @@
   --tp-common-blue: #6158a6;
   --tp-common-blue-2: #15042c; /*background-color theme*/
   --tp-common-blue-3: #3119e4; /*3119e4*/
-  --tp-common-blue-4: #600EE4; /*600EE4*/
+  --tp-common-blue-4: #6158a6; /*6158a6*/
   --tp-common-red: #FF3C82;
   --tp-heading-primary: #15042c;
   --tp-grey-1: #5F6368;
@@ -2360,7 +2360,7 @@ input[type=color] {
   right: 0%;
 }
 .about-banner {
-  background-color: #600EE4;
+  background-color: #6158a6;
   height: 540px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2436,7 +2436,7 @@ input[type=color] {
   font-size: 110px;
   line-height: 1.2;
   letter-spacing: -0.02em;
-  color: #600EE4;
+  color: #6158a6;
   margin-left: 100px;
   margin-top: -140px;
 }
@@ -4513,7 +4513,7 @@ input[type=color] {
 }
 .inner-header-2 .header-bottom__main-menu-inner nav ul li::after {
   background: linear-gradient(180deg, rgba(96, 14, 228, 0) 0%, rgba(96, 14, 228, 0.1) 100%);
-  filter: drop-shadow(0px 2px 0px #600EE4);
+  filter: drop-shadow(0px 2px 0px #6158a6);
 }
 .inner-header-2 .header-bottom__main-menu-inner nav ul li a {
   color: var(--tp-common-black);
@@ -9443,8 +9443,8 @@ input[type=color] {
   }
 }
 .pd-details-social a:hover {
-  background-color: #600EE4;
-  border-color: #600EE4;
+  background-color: #6158a6;
+  border-color: #6158a6;
   color: var(--tp-common-white);
 }
 
@@ -12039,7 +12039,7 @@ input[type=color] {
   color: var(--tp-common-black);
 }
 .postbox__comment-input .inputText:focus {
-  box-shadow: 0px 1px 2px 1px rgba(32, 33, 36, 0.06), inset 0 0 0 2px #600EE4;
+  box-shadow: 0px 1px 2px 1px rgba(32, 33, 36, 0.06), inset 0 0 0 2px #6158a6;
 }
 .postbox__comment-input .inputText.password {
   padding-right: 55px;
@@ -12061,7 +12061,7 @@ input[type=color] {
   color: var(--tp-common-black);
 }
 .postbox__comment-input .textareaText:focus {
-  box-shadow: 0px 1px 2px 1px rgba(32, 33, 36, 0.06), inset 0 0 0 2px #600EE4;
+  box-shadow: 0px 1px 2px 1px rgba(32, 33, 36, 0.06), inset 0 0 0 2px #6158a6;
 }
 .postbox__comment-input .floating-label {
   position: absolute;
